@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "29f7efe2738dee2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a72c0c85a96720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1afc5607cfc41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Native - Comandos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11f7033813ace35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript - Comandos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b807779ff4850842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expo - Comandos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbab9b0a26387697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Figma - Comandos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "602b1233594de33f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727cbcf887ac2877",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "476a292bc56a9a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7cad40a1974d878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c90fc5eaed876f88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae72e2a57e3abd7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c3b1cc2066309c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1888acc4e278c389",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f333e7f1ba377b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e095a5c2dcb4ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Figma - Comandos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d385cb5184630595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Figma - Comandos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12aba92060865677",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ba09f506a06f743",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Figma - Comandos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fbab9b0a26387697",
+  "lastOpenFiles": [
+    "Figma - Comandos.md",
+    "Expo - Comandos.md",
+    "React Native - Comandos.md",
+    "TypeScript - Comandos.md",
+    "desktop.ini",
+    "Sem título"
+  ]
+}

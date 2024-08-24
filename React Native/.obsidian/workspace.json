@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "602b1233594de33f",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Figma - Comandos.md",
+                "file": "React Native - Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Figma - Comandos.md",
+                "file": "React Native - Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Figma - Comandos.md"
+                "file": "React Native - Comandos.md"
               }
             }
           }
@@ -197,7 +196,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fbab9b0a26387697",
+  "active": "ed1afc5607cfc41d",
   "lastOpenFiles": [
     "Figma - Comandos.md",
     "Expo - Comandos.md",
